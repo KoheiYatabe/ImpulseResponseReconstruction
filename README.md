@@ -3,6 +3,8 @@ This is an example implementation of the ADMM algorithm for reconstructing RIR (
 
 Kohei Yatabe and Akiko Sugahara, "Simulation of room impulse response using frequency-domain FEM and convex-optimization-based post-processing," submitted.
 
+[![DOI](https://zenodo.org/badge/439284824.svg)](https://zenodo.org/badge/latestdoi/439284824)
+
 ## Files
  - demo.m
 	 - script for running the ADMM algorithm
